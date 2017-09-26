@@ -1,4 +1,4 @@
-import time
+   import time
 print(time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time())))
  #%y year(00-99)  or %Y year(000-999)
  #%m month (01-12)
