@@ -4,6 +4,6 @@ for i in range(1,101):# define a range first ,there are three results will be di
     elif i%3==0:
          print("fizz") # just i%3=0 then print fizz
     elif i%5==0:
-         print("buzz")# just i%5=0 then print buzz
+         print("buzz")# just i%5=0 then print buzz.
     else:
           print (i) 
