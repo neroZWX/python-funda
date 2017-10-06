@@ -6,4 +6,4 @@ print(time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time())))
  #%H 24hour system or use ‘%I’ 12 hour system
  #%M  mins  (0-59)
  #%S  sceonds  (0-59)
- # or can  use  time.strftime('%c') Represents current time
+ # or can  use  time.strftime('%c') Represents current time.
