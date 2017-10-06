@@ -10,6 +10,6 @@ def fact(n):# encapuslation anoter object 'fact'
         s+=int(i)# after convert 'int' then we can add the result one number by one number
     return s
 
-print(fact(fac(100)))# because there are  two objects encapuslation before,we can print the result directly
+print(fact(fac(100)))# because .there are  two objects encapuslation before,we can print the result directly
 #Also we can use   import math 
                 # print math.factorial(100)  accout the result and convert to int account the final result.
