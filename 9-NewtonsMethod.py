@@ -1,5 +1,5 @@
 import math   #z_next = z - ((z*z - x) / (2 * z))
-def mathSqrt(x )  # X is > zero  
+def mathSqrt(x )  # X is > zero  .
    s = math.sqrt
    print("math.sqrt("+str(x)+") = "+str(s))
 def newtons(x,z)
